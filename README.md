@@ -19,3 +19,9 @@
     alt="GitHub Streak"
   />
 </p>
+
+<h2 align="left">Tech Stack</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github&theme=light" />
+</p>
