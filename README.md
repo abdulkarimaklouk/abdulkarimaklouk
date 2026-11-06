@@ -9,16 +9,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=abdulkarimaklouk&show_icons=true&hide_border=true&theme=transparent"
-    height="160"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=abdulkarimaklouk&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkarimaklouk&hide_border=true&theme=transparent"
-    height="160"
+    src="https://streak-stats.demolab.com?user=abdulkarimaklouk&hide_border=true&theme=transparent"
+    height="165"
     alt="GitHub Streak"
   />
 </p>
+
 
 <h2 align="left">Tech Stack</h2>
 
