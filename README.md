@@ -38,3 +38,14 @@
 - Developed a restaurant dashboard for managing orders.
 - Built the interface using React, TypeScript, and Vite.
 - Implemented order tracking and payment verification workflows.
+
+<h2 align="left">Connect with me</h2>
+
+<p align="left">
+  <a href="mailto:abdulkarim.aklouk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
