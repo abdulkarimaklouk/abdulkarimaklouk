@@ -26,3 +26,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github&theme=light" />
 </p>
+
+## Featured Projects
+
+### Social Media Backend
+- Built a social media backend with user authentication and authorization.
+- Developed RESTful APIs using Node.js and Express.js.
+- Used MongoDB and JWT for data management and authentication.
+
+### Restaurant Management System
+- Developed a restaurant dashboard for managing orders.
+- Built the interface using React, TypeScript, and Vite.
+- Implemented order tracking and payment verification workflows.
